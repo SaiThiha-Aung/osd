@@ -1,0 +1,7 @@
+Git clone url
+
+Git add file_name( * = all / notes : if file name will dot must be “git add .” )
+
+Git commit -m “comment”
+
+Git push -u origin branch_name
